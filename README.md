@@ -5,7 +5,7 @@
 -  I know html and css
 -  I know sql and Mysql 
 - 💞️ I’m looking to collaborate on open source project or everything related to java , javascript ,html  and css 
-- 📫 How to reach me +8613601505641 this is my whatsApp 
+- 📫 How to reach me +8613601505641 this is my whatsApp  email: johnthanklish001@gmail.com
 
 <!---
 dachid001/dachid001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
